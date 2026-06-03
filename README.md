@@ -3,7 +3,7 @@
 
 # A Linux distribution based on Arch.
 
-> *A whale is large, complete, but at the same time stable. It is this stability that allows it to roam freely through the sea. Without it, it would be heavy,anchored,trapped on any rock. A Linux distribution is like that: if the base is unstable, it crashes. And crashing means imprisonment.*
+> *A whale is large, complete, but at the same time stable. It is this stability that allows it to roam freely through the sea. Without it, it would be heavy, anchored, trapped on any rock. A Linux distribution is like that: if the base is unstable, it crashes. And crashing means imprisonment.*
 
 **Whale** is a Linux distribution based on Arch Linux, created and conceived by the [Coreonix](https://github.com/Coreonix) team. The central idea is simple: to be a more stable alternative, with more support and more freedom within the community. Less bloatware. Fewer unnecessary decisions. A lean system that proves you don't need much to have enough.
 
