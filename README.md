@@ -11,7 +11,7 @@
 
 ## Why Arch?
 
-Arch Linux is a pioneer in giving the end user the power of choice—no debloat, no manual removal, no workarounds. You build your own system from scratch. Whale doesn't change that. It simply removes the initial friction so you get to what matters faster: your system, your way.
+Arch Linux is a pioneer in giving the end user the power of choice — no debloat, no manual removal, no workarounds. You build your own system from scratch. Whale doesn't change that. It simply removes the initial friction so you get to what matters faster: your system, your way.
 
 ---
 
