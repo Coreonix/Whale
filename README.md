@@ -17,17 +17,19 @@ Arch Linux is a pioneer in giving the end user the power of choice — no debloa
 
 ## What Whale Brings
 
-- **Automated TTY installer** via Archinstall — you boot into the live environment, the process starts, you choose what you want
-- **AUR enabled by default** — no extra configuration
-- **No default DE** — you choose the environment, not us
-- **No live mode** — whoever booted Whale came to install
+- **Automated TTY installer** via Archinstall — you boot into whale, the process starts, you choose what you want for your new system. 
+- **AUR enabled by default** — You can install whatever you want right from the start without having to rely on third parties.
+- **No live mode** — We do not provide a native live environment for Whale due to the original properties of Arch Linux.
 - Unique visual identity under Coreonix
 
 ---
 
 ## Stable with freedom
 
-Whale isn't Arch with embellishments. It's Arch with intention.
+The slogan is not an exaggeration or propaganda; there is a great deal of commitment related to this philosophy, and it goes far beyond simply installing new software,
+**Linux-LTS** as the default kernel, more support and greater stability for tasks.
+**Mass system optimization** for faster speeds for vintage systems.
+
 
 ---
 
